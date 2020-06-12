@@ -4,14 +4,16 @@
             "path": "force-app",
             "default": true,
             "package": "Primary Opportunity Contact Role",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionName": "One Ton",
+            "versionNumber": "1.0.0.NEXT"
         }
     ],
     "namespace": "Pocr",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "48.0",
     "packageAliases": {
-        "Primary Opportunity Contact Role": "0Ho2E000000blP7SAI"
+        "Primary Opportunity Contact Role": "0Ho2E000000blP7SAI",
+        "Primary Opportunity Contact Role@1.0.0-1": "04t2E000003kWkdQAE",
+        "Primary Opportunity Contact Role@1.0.0-2": "04t2E000003kWkiQAE"
     }
 }
