@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IsPrimaryContact__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>When selected, Primary identifies the person as the primary contact for the opportunity. This field mirrors the standard Primary field 100% of the time and may be used in custom report types.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>When selected, Primary identifies the person as the primary contact for the opportunity.</inlineHelpText>
+    <label>Primary Contact</label>
+    <type>Checkbox</type>
+</CustomField>
